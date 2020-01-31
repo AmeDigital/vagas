@@ -23,10 +23,12 @@ Saiba mais https://www.amedigital.com/fast-forward/
 <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFwMtljOxXrFA/feedshare-shrink_800/0?e=1583366400&v=beta&t=h56aW7PoQpAA4vg4sezxB_Tvri3UyZB-WNNgNEBkdtI" alt="Ame Digital" width="960px" />
 
 
-<p> Curtiu? E quer saber mais da cia https://www.amedigital.com/sobre </p>
-<p> Que tal seguir no linkedin: https://www.linkedin.com/company/ame-digital </p>
-<p> Ou então no medium: https://medium.com/ame-tech </p>
-<p> Nossas vagas: https://grnh.se/d3ab816f2 </p>
+<p> Quer saber mais sobre a gente? <a href="https://www.amedigital.com/sobre"> Escovar o bit</a></p>
+<p> Postamos o dia-a-dia da cia no <a href="https://www.linkedin.com/company/ame-digital">Linkedin :D</a></p>
+<p> Periódicamente postamos sobre as rotinas tech no <a href="https://medium.com/ame-tech">Medium</a></p>
+<p> Que fazer parte dessa revolução? <a href="https://grnh.se/d3ab816f2"> Clique aqui!</a></p>
+
+
 
 
 **let's elevate!**
