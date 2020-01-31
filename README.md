@@ -23,6 +23,10 @@ Saiba mais https://www.amedigital.com/fast-forward/
 <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFwMtljOxXrFA/feedshare-shrink_800/0?e=1583366400&v=beta&t=h56aW7PoQpAA4vg4sezxB_Tvri3UyZB-WNNgNEBkdtI" alt="Ame Digital" width="960px" />
 
 
+<p> Curtiu? E quer saber mais da cia https://www.amedigital.com/sobre </p>
+<p> Que tal seguir no linkedin: https://www.linkedin.com/company/ame-digital </p>
+<p> Ou então no medium: https://medium.com/ame-tech </p>
+<p> Nossas vagas: https://grnh.se/d3ab816f2 </p>
 
 
 **let's elevate!**
