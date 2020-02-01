@@ -1,6 +1,4 @@
-<h2>Somos revolucionários</h2>
-<img src="https://media-exp1.licdn.com/dms/image/C4D1BAQEJTYljJpBEGQ/company-background_10000/0?e=1580601600&v=beta&t=qloqU7uN35J6I-LKLW9M1LgNKjeGTr1p0rd-tdeVsrk" alt="Ame Digital" width="960px" />
-
+<h1>Somos revolucionários</h1>
 
 <p>
 O mundo mudou muito nos últimos 10 anos, então por que usamos o nosso dinheiro do mesmo jeito?
